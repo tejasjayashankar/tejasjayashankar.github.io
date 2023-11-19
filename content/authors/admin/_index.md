@@ -2,11 +2,11 @@
 
 
 # Display name
-title: Simon Gravelle
+title: Tejas Jayashankar
 
 # Full name (for SEO)
-first_name: Simon
-last_name: Gravelle
+first_name: Tejas
+last_name: Jayashankar
 
 # Status emoji
 status:
@@ -16,28 +16,37 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: MSCA Fellow and CNRS future recruit
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: LIPhy, University Grenoble Alpes
-    url: https://liphy.univ-grenoble-alpes.fr/
+  - name: EECS Department, Massachusetts Insititute of Technology (MIT)
+    url: https://www.eecs.mit.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a computer physicist in soft matter and fluids at interfaces at LIPhy in Grenoble, France.
+bio: I am a fifth-year PhD student in the EECS department at MIT.
 
 # Interests to show in About widget
 interests:
-  - Soft Matter
-  - Fluid at interface
-  - Computer simulations
+  - Generative modeling
+  - Statistical Inference
+  - (Neural) Data Compression
+  - Representation Learning
+  - Computer Vision
+  - Information Theory
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Nanofluidics
-      institution: University of Lyon (France)
-      year: 2015
+    - course: PhD in EECS
+      institution: Massachusetts Institute of Technology (MIT)
+      year: 2022 - Present
+    - course: Masters of Science in EECS
+      institution: Massachusetts Institute of Technology (MIT)
+      year: 2022
+    - course: Bachelors of Science in Electrical Engineering
+      institution: University of Illinois at Urbana-Champaign (UIUC)
+      year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -47,26 +56,27 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: mailto:simon.gravelle@live.fr
+    link: mailto:tejasj@mit.edu
     # link: '/#contact'
-  - icon: twitter
+  - icon: linkedin
     icon_pack: fab
-    link: https://twitter.com/GravelleSimon
-    label: Follow me on Twitter
-  - icon: mastodon
-    icon_pack: fab
-    link: https://mastodon.social/@simongravelle
+    link: https://www.linkedin.com/in/tkj97/
+    label: Follow me on LinkedIn
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/TejasJayashank2
+  #   label: Follow me on X
   - icon: graduation-cap
     icon_pack: fas
-    link: https://scholar.google.com/citations?user=9fD2JlYAAAAJ&hl=fr
+    link: https://scholar.google.com/citations?user=gjN_lUoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
-    link: https://github.com/simongravelle
+    link: https://github.com/tkj516
     display:
       header: true
   - icon: cv
     icon_pack: ai
-    link: files/cv/cv.pdf
+    link: https://drive.google.com/file/d/1ZkHjp6Ys8pNm_yjakJAN9DijX0SEkEmn/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -75,18 +85,21 @@ email: ''
 highlight_name: true
 ---
 
-**About me**
+**About Me**
 
-I am a physicist in soft matter and fluids at interfaces at [LIPhy](https://liphy.univ-grenoble-alpes.fr/) in Grenoble (France). In 2022 I received a [MSCA](https://marie-sklodowska-curie-actions.ec.europa.eu/) grant (*NanoSep*) to study the demixing of fluid mixtures by hybrid nanoporous materials, and I will soon be working at [CNRS](https://www.cnrs.fr/).
+I am a fifth-year PhD student in the [EECS department at MIT](https://www.eecs.mit.edu/) 
+advised by [Professor Gregory Wornell](http://allegro.mit.edu/~gww/). I received by M.S. 
+degree in EECS from MIT in January 2022 and my B.S. degree in Electrical Engineering from 
+the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/) in 2019. My 
+research interests are centered around the use of generative models and representation learning for solving
+problems at the interesection of neural compression, computer vision, information 
+theory and signal (image/audio) processing. 
 
-**Open source and open data**
+**Research Internship Experience**
 
-* [MAICoS](https://maicos-devel.gitlab.io/maicos/index.html), a Python toolkit for analyzing confined molecular simulations
-* [NMRforMD](https://nmrformd.readthedocs.io), a Python script for calculating hydrogen NMR relaxation rates from molecular dynamics simulations
-* [Github](https://github.com/simongravelle/) repository containing molecular simulation scripts and data
-
-**Outreach**
-
-* [LAMMPS tutorials](https://lammpstutorials.github.io) for beginners and advanced LAMMPS users
-* [GROMACS tutorials](https://gromacstutorials.github.io) for beginners and advanced GROMACS users
-* [gallery of animations](https://www.youtube.com/@SimonGravelle) of molecular systems
+I have had the pleasure of finishing multiple research internships in the past. Most recently
+I worked with [Dr. Fabian Mentzer](https://fmentzer.github.io/) on the Neural Compression Team at Google Research (see [slides](https://docs.google.com/presentation/d/12mXjO50qHUXiuk062CGNG6gNwtfHcO86uYLYbCLQmms/edit?usp=sharing&resourcekey=0-onMp2_GuNQTqEIEbvpB1AA)). I also worked
+with [Dr. Qing He](https://scholar.google.com/citations?user=kgyV1ucAAAAJ&hl=en) and [Dr. Vimal Manohar](https://scholar.google.com/citations?hl=en&user=8t3Ex0QAAAAJ&view_op=list_works&sortby=pubdate) at Meta AI in 2021 and 2022
+respectively where I worked on speech compression and singing voice conversion with generative models.
+I have also interned with [Dr. Jonathan Le Roux](https://www.jonathanleroux.org/) at MERL in 2019, where I conducted research on adversarial attack 
+detection.

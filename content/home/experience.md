@@ -1,5 +1,5 @@
 ---
-active: false
+active: true
 
 # An instance of the Experience widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
@@ -24,28 +24,50 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: CEO
-    company: GenCoin
+  - title: PhD Student Researcher
+    company: Google Research
     company_url: ''
-    company_logo: org-gc
-    location: California
-    date_start: '2021-01-01'
-    date_end: ''
-    description: |2-
-        Responsibilities include:
-        
-        * Analysing
-        * Modelling
-        * Deploying
+    company_logo: google
+    # location: California
+    date_start: '2022-09-01'
+    date_end: '2023-04-28'
+    description: Interned on the Neural Compression team, where I worked with Dr. Fabian Mentzer on neural video compression using vision transformers.
 
-  - title: Professor of Semiconductor Physics
-    company: University X
+  - title: Research Intern
+    company: Meta AI
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: Taught electronic engineering and researched semiconductor physics.
+    company_logo: meta-icon
+    # location: California
+    date_start: '2022-06-01'
+    date_end: '2023-09-22'
+    description: Interned on the AI Speech team, where I worked with Dr. Vimal Manohar and Dr. Qing He on self-supervised representation learning for singing voice conversion.
+
+  - title: Research Intern
+    company: Meta AI
+    company_url: ''
+    company_logo: meta-icon
+    # location: California
+    date_start: '2021-05-29'
+    date_end: '2022-09-16'
+    description: Interned on the AI Speech team, where I worked with Dr. Qing He on variable bitrate speech coding using hierarchical VQ-VAEs and WaveRNNs with configurable computation complexity.
+
+  - title: Research Intern
+    company: Mitsubishi Electric Research Labs (MERL)
+    company_url: ''
+    company_logo: mitsubishi
+    # location: California
+    date_start: '2019-05-29'
+    date_end: '2020-04-29'
+    description: Interned with Dr. Jonathan Le Roux and Professor Pierre Moulin from UIUC, where I worked on developing novel algorithms for detecting adversarial attacks on speech recognition systems.
+
+  - title: Software Engineering Intern
+    company: The MathWorks
+    company_url: ''
+    company_logo: mathworks
+    # location: California
+    date_start: '2018-05-20'
+    date_end: '2018-07-30'
+    description: Worked on deep learning graph optimization and profiling using TensorRT on edge devices.
 
 design:
   columns: '2'

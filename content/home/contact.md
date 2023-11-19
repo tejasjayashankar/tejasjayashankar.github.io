@@ -16,7 +16,7 @@ content:
   autolink: true
 
   # Contact details (edit or remove options as required)
-  email: simon.gravelle@live.fr
+  email: tejasj@mit.edu
 
 design:
   columns: '2'
