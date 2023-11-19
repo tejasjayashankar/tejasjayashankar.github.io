@@ -38,8 +38,8 @@ experience:
     company_url: ''
     company_logo: mit
     # location: California
-    date_start: '2022-01-01'
-    date_end: '2019-09-22'
+    date_start: '2019-09-22'
+    date_end: '2022-01-22'
     description: Obtained my Masters in EECS. Completed my thesis titled "Image Compression using Sum-Product Networks" under Professor Gregory Wornell.
 
   - title: Bachelor of Science in Electrical Engineering with a Minor in Mathematics

@@ -38,14 +38,14 @@ design:
   columns: '2'
 ---
 
-My most recent interests are focused on the theoretical and applied study of diffusion
+One of my current recent interests is the theoretical and applied study of diffusion
 models for solving inverse problems in various domains and for developing new generative
 sampling schemes by combining advances in neural compression and new insights from optimal 
-transport. To this end, I have also been doing research on new representation learning
+transport. At the same time, I have also been doing research on new representation learning
 techniques that can leverage spectral decomposition techniques for applications to
-progressive decoding and variable bitrate compression.
+progressive image decoding and variable bitrate compression.
 
-During my Masters I developed a new architecture for lossless and lossy image compression
+During my Masters I proposed a new architecture for lossless and lossy image compression
 by developing a novel algorithm for compression with model-code separated compression 
 architectures (i.e., source-agnostic encoding and source augmentable decoding). During my
 time at UIUC I worked on developing new video frame interpolation technology by leveraging 

@@ -66,8 +66,8 @@ social:
   #   icon_pack: fab
   #   link: https://twitter.com/TejasJayashank2
   #   label: Follow me on X
-  - icon: graduation-cap
-    icon_pack: fas
+  - icon: google-scholar
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=gjN_lUoAAAAJ&hl=en
   - icon: github
     icon_pack: fab
@@ -97,8 +97,8 @@ theory and signal (image/audio) processing.
 
 **Research Internship Experience**
 
-I have had the opportunity to work on multiple research internships in the past. Most recently,
-I worked with [Dr. Fabian Mentzer](https://fmentzer.github.io/) on the Neural Compression Team at Google Research (see [slides](https://docs.google.com/presentation/d/12mXjO50qHUXiuk062CGNG6gNwtfHcO86uYLYbCLQmms/edit?usp=sharing&resourcekey=0-onMp2_GuNQTqEIEbvpB1AA)). I also worked
+I have had the opportunity to complete multiple research internships in the past. Most recently,
+I worked on transformer-based video compression architectures with [Dr. Fabian Mentzer](https://fmentzer.github.io/) on the Neural Compression Team at Google Research (see [slides](https://docs.google.com/presentation/d/12mXjO50qHUXiuk062CGNG6gNwtfHcO86uYLYbCLQmms/edit?usp=sharing&resourcekey=0-onMp2_GuNQTqEIEbvpB1AA)). I also worked
 with [Dr. Qing He](https://scholar.google.com/citations?user=kgyV1ucAAAAJ&hl=en) and [Dr. Vimal Manohar](https://scholar.google.com/citations?hl=en&user=8t3Ex0QAAAAJ&view_op=list_works&sortby=pubdate) at Meta AI in 2021 and 2022
 respectively where I worked on speech compression and singing voice conversion with generative models.
 I have also interned with [Dr. Jonathan Le Roux](https://www.jonathanleroux.org/) at MERL in 2019, where I conducted research on adversarial attack 

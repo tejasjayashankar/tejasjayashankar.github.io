@@ -8,7 +8,7 @@ headless: true
 weight: 60
 
 title: Publications
-# subtitle: 'See also my [Google Scholar](https://scholar.google.com/citations?user=jxApK7gAAAAJ&hl=en).'
+subtitle: 'See also my [Google Scholar](https://scholar.google.com/citations?user=gjN_lUoAAAAJ&hl=en).'
 
 content:
   # Filter on criteria
