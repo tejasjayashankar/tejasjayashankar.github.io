@@ -76,7 +76,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1ZkHjp6Ys8pNm_yjakJAN9DijX0SEkEmn/view?usp=sharing
+    link: https://drive.google.com/file/d/1mEUlFLqvUsfIsKvMY97lN9VAWRuPLtoM/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''

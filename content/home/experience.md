@@ -63,7 +63,7 @@ experience:
   - title: Software Engineering Intern
     company: The MathWorks
     company_url: ''
-    company_logo: mathworks
+    company_logo: matlab
     # location: California
     date_start: '2018-05-20'
     date_end: '2018-07-30'
