@@ -88,7 +88,7 @@ highlight_name: true
 **About Me**
 
 I am a fifth-year PhD student in the [EECS department at MIT](https://www.eecs.mit.edu/) 
-advised by [Professor Gregory Wornell](http://allegro.mit.edu/~gww/). I received by M.S. 
+advised by [Professor Gregory Wornell](http://allegro.mit.edu/~gww/). I received my M.S. 
 degree in EECS from MIT in January 2022 and my B.S. degree in Electrical Engineering from 
 the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/) in 2019. My 
 research interests are centered around the use of generative models and representation learning for solving
@@ -97,7 +97,7 @@ theory and signal (image/audio) processing.
 
 **Research Internship Experience**
 
-I have had the pleasure of finishing multiple research internships in the past. Most recently
+I have had the opportunity to work on multiple research internships in the past. Most recently,
 I worked with [Dr. Fabian Mentzer](https://fmentzer.github.io/) on the Neural Compression Team at Google Research (see [slides](https://docs.google.com/presentation/d/12mXjO50qHUXiuk062CGNG6gNwtfHcO86uYLYbCLQmms/edit?usp=sharing&resourcekey=0-onMp2_GuNQTqEIEbvpB1AA)). I also worked
 with [Dr. Qing He](https://scholar.google.com/citations?user=kgyV1ucAAAAJ&hl=en) and [Dr. Vimal Manohar](https://scholar.google.com/citations?hl=en&user=8t3Ex0QAAAAJ&view_op=list_works&sortby=pubdate) at Meta AI in 2021 and 2022
 respectively where I worked on speech compression and singing voice conversion with generative models.
