@@ -31,7 +31,7 @@ experience:
     # location: California
     date_start: '2022-01-20'
     # date_end: '2023-04-28'
-    description: PhD student working on generative models, neural compression and representation learning in the Signals, Information and Algorithms group. Advised by Professor Gregory Wornell.
+    description: Doctoral student working on generative models, neural compression and representation learning in the Signals, Information and Algorithms group. Advised by Professor Gregory Wornell.
 
   - title: Masters of Science in Electrical Engineering and Computer Science
     company: Massachusetts Insitute of Technology
@@ -40,7 +40,7 @@ experience:
     # location: California
     date_start: '2019-09-22'
     date_end: '2022-01-22'
-    description: Obtained my Masters in EECS. Completed my thesis titled "Image Compression using Sum-Product Networks" under Professor Gregory Wornell.
+    description: Completed my thesis titled "Image Compression using Sum-Product Networks" under Professor Gregory Wornell.
 
   - title: Bachelor of Science in Electrical Engineering with a Minor in Mathematics
     company: University of Illinois at Urbana-Champaign
