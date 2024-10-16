@@ -1,7 +1,7 @@
 ---
 title: "Lifted Residual Score Estimation"
-date: 2025-07-01
-publishDate: 2023-07-01
+date: 2024-07-01
+publishDate: 2024-07-01
 authors: ["**Tejas Jayashankar**", "Jongha J. Ryu", "Xiangxiang Xu", "Gregory W. Wornell"]
 publication_types: ["1"]
 abstract: "This paper proposes two new techniques to im-
