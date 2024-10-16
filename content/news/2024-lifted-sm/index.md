@@ -6,7 +6,7 @@ external_link: ""
 #   caption: MAICoS logo
 #   focal_point: Smart
 # slides: example  https://hugoblox.com/blocks/slider/
-summary: Work
+summary: Recent work on improved score-estimation for diffusion models and implicit models presented at ICML SPIGM Workshop 2024
 tags:
 - Research
 title: Recent work on improved score-estimation for diffusion models and implicit models accepted at ICML SPIGM Workshop 2024!
