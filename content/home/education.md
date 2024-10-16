@@ -31,7 +31,7 @@ experience:
     # location: California
     date_start: '2022-01-20'
     # date_end: '2023-04-28'
-    description: Doctoral student working on generative models, neural compression and representation learning in the Signals, Information and Algorithms group. Advised by Professor Gregory Wornell.
+    description: Doctoral student working on generative models, diffusion models, representation learning and neural compression in the Signals, Information and Algorithms group. Advised by Professor Gregory Wornell.
 
   - title: Masters of Science in Electrical Engineering and Computer Science
     company: Massachusetts Insitute of Technology

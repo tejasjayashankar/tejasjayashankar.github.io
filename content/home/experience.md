@@ -24,6 +24,15 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Scientist Intern
+    company: Adobe Research
+    company_url: ''
+    company_logo: google
+    # location: California
+    date_start: '2024-05-28'
+    date_end:
+    description: Working with Dr. Nikos Vlassis on one-step generative modeling using novel diffusion distillation techniques based on maximum mean discrepancy (MMD).
+
   - title: PhD Student Researcher
     company: Google Research
     company_url: ''
