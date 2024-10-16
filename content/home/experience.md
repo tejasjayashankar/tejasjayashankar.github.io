@@ -27,7 +27,7 @@ experience:
   - title: Research Scientist Intern
     company: Adobe Research
     company_url: ''
-    company_logo: google
+    company_logo: adobe-icon
     # location: California
     date_start: '2024-05-28'
     date_end:
@@ -49,7 +49,7 @@ experience:
     # location: California
     date_start: '2022-06-01'
     date_end: '2023-09-22'
-    description: Interned on the AI Speech team, where I worked with Dr. Vimal Manohar and Dr. Qing He on self-supervised representation learning for singing voice conversion.
+    description: Interned on the AI Speech team, where I worked with Dr. Vimal Manohar and Dr. Qing He on self-supervised representation learning for singing voice conversion using HiFi-GAN vocoders.
 
   - title: Research Intern
     company: Meta AI
