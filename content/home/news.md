@@ -2,7 +2,7 @@
 active: true
 widget: portfolio
 headless: true
-weight: 28
+weight: 27
 title: Latest News
 subtitle: ''
 content:

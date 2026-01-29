@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blog Posts | Tejas Jayashankar</title>
+    <link>https://tejasjayashankar.github.io/blog.html</link>
+      <atom:link href="https://tejasjayashankar.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blog Posts</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 20 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tejasjayashankar.github.io/media/logo_hud022c539867be043536a32a33d2fd77b_252126_300x300_fit_lanczos_3.png</url>
+      <title>Blog Posts</title>
+      <link>https://tejasjayashankar.github.io/blog.html</link>
+    </image>
+    
+    <item>
+      <title>About Me</title>
+      <link>https://tejasjayashankar.github.io/blog/about-me.html</link>
+      <pubDate>Fri, 20 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/blog/about-me.html</guid>
+      <description>&lt;img src=&#34;../img/avatar.jpg&#34; class=&#34;img-responsive&#34; alt=&#34;Me&#34; width=&#34;300&#34;/&gt;
+&lt;p&gt;Tests&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

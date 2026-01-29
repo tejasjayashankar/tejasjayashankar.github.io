@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Tejas Jayashankar</title>
+    <link>https://tejasjayashankar.github.io/publication-type/1.html</link>
+      <atom:link href="https://tejasjayashankar.github.io/publication-type/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://tejasjayashankar.github.io/media/logo_hud022c539867be043536a32a33d2fd77b_252126_300x300_fit_lanczos_3.png</url>
+      <title>1</title>
+      <link>https://tejasjayashankar.github.io/publication-type/1.html</link>
+    </image>
+    
+    <item>
+      <title>Lifted Residual Score Estimation</title>
+      <link>https://tejasjayashankar.github.io/publication/2024-lifted-sm.html</link>
+      <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2024-lifted-sm.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Score-based Source Separation with Applications to Digital Communication Signals</title>
+      <link>https://tejasjayashankar.github.io/publication/2023-score-based-source-separation.html</link>
+      <pubDate>Mon, 26 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2023-score-based-source-separation.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-Supervised Representations for Singing Voice Conversion</title>
+      <link>https://tejasjayashankar.github.io/publication/2023-self-supervised-representations.html</link>
+      <pubDate>Sun, 04 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2023-self-supervised-representations.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Architecture for Variable Bitrate Neural Speech Codec with Configurable Computation Complexity</title>
+      <link>https://tejasjayashankar.github.io/publication/2021-variable-rate-speech-codec.html</link>
+      <pubDate>Mon, 23 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2021-variable-rate-speech-codec.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Detecting Audio Attacks on ASR Systems with Dropout Uncertainty</title>
+      <link>https://tejasjayashankar.github.io/publication/2020-detecting-audio-attacks.html</link>
+      <pubDate>Thu, 15 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2020-detecting-audio-attacks.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LAP-based Video Frame Interpolation</title>
+      <link>https://tejasjayashankar.github.io/publication/2019-lap-based-vfi.html</link>
+      <pubDate>Sun, 22 Sep 2019 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2019-lap-based-vfi.html</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

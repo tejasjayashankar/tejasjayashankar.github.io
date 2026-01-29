@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:jongharyu.github.io)",
+      "Bash(ls:*)",
+      "Bash(tree:*)",
+      "Bash(find:*)",
+      "Bash(hugo server:*)",
+      "Bash(curl:*)",
+      "Bash(hugo list:*)"
+    ]
+  }
+}
