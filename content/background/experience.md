@@ -29,8 +29,8 @@ experience:
     company_url: ''
     company_logo: adobe-icon
     date_start: '2024-05-28'
-    date_end:
-    description: Working with Dr. Nikos Vlassis on one-step generative modeling using novel diffusion distillation techniques based on maximum mean discrepancy (MMD).
+    date_end: '2024-08-23'
+    description: Worked with [Dr. Nikos Vlassis](https://sites.google.com/site/nikosvlassis/) on one-step image generative modeling from scratch.
 
   - title: PhD Student Researcher
     company: Google Research
@@ -38,7 +38,7 @@ experience:
     company_logo: google
     date_start: '2022-09-01'
     date_end: '2023-04-28'
-    description: Interned on the Neural Compression team, where I worked with Dr. Fabian Mentzer on neural video compression using vision transformers.
+    description: Interned on the Neural Compression team, where I worked with [Dr. Fabian Mentzer](https://fmentzer.github.io/) on neural video compression using vision transformers.
 
   - title: Research Intern
     company: Meta AI
@@ -46,7 +46,7 @@ experience:
     company_logo: meta-icon
     date_start: '2022-06-01'
     date_end: '2023-09-22'
-    description: Interned on the AI Speech team, where I worked with Dr. Vimal Manohar and Dr. Qing He on self-supervised representation learning for singing voice conversion using HiFi-GAN vocoders.
+    description: Interned on the AI Speech team, where I worked with [Dr. Vimal Manohar](https://scholar.google.com/citations?hl=en&user=8t3Ex0QAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Qing He](https://scholar.google.com/citations?user=kgyV1ucAAAAJ&hl=en) on self-supervised representation learning for singing voice conversion using HiFi-GAN vocoders.
 
   - title: Research Intern
     company: Meta AI
@@ -54,7 +54,7 @@ experience:
     company_logo: meta-icon
     date_start: '2021-05-29'
     date_end: '2022-09-16'
-    description: Interned on the AI Speech team, where I worked with Dr. Qing He on variable bitrate speech coding using hierarchical VQ-VAEs and WaveRNNs with configurable computation complexity.
+    description: Interned on the AI Speech team, where I worked with [Dr. Qing He](https://scholar.google.com/citations?user=kgyV1ucAAAAJ&hl=en) on variable bitrate neural speech codecs using hierarchical VQ-VAEs and WaveRNNs with configurable computation complexity.
 
   - title: Research Intern
     company: Mitsubishi Electric Research Labs (MERL)
@@ -62,7 +62,7 @@ experience:
     company_logo: mitsubishi
     date_start: '2019-05-29'
     date_end: '2020-04-29'
-    description: Interned with Dr. Jonathan Le Roux and Professor Pierre Moulin from UIUC, where I worked on developing novel algorithms for detecting adversarial attacks on speech recognition systems.
+    description: Interned with [Dr. Jonathan Le Roux](https://www.jonathanleroux.org/) and [Professor Pierre Moulin](https://ece.illinois.edu/about/directory/faculty/pmoulin) from UIUC, where I worked on developing novel algorithms for detecting adversarial attacks on speech recognition systems.
 
   - title: Software Engineering Intern
     company: The MathWorks
