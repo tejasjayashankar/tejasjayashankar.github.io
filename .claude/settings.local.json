@@ -7,7 +7,10 @@
       "Bash(find:*)",
       "Bash(hugo server:*)",
       "Bash(curl:*)",
-      "Bash(hugo list:*)"
+      "Bash(hugo list:*)",
+      "Bash(hugo:*)",
+      "WebFetch(domain:patents.google.com)",
+      "WebFetch(domain:scholar.google.com)"
     ]
   }
 }

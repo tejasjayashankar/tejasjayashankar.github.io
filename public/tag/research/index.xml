@@ -5,12 +5,24 @@
     <link>https://tejasjayashankar.github.io/tag/research.html</link>
       <atom:link href="https://tejasjayashankar.github.io/tag/research/index.xml" rel="self" type="application/rss+xml" />
     <description>Research</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tejasjayashankar.github.io/media/logo_hud022c539867be043536a32a33d2fd77b_252126_300x300_fit_lanczos_3.png</url>
       <title>Research</title>
       <link>https://tejasjayashankar.github.io/tag/research.html</link>
     </image>
+    
+    <item>
+      <title>Score-of-Mixture Training accepted as Spotlight Poster (top 2%) at ICML 2025</title>
+      <link>https://tejasjayashankar.github.io/news/2025-smt.html</link>
+      <pubDate>Tue, 01 Apr 2025 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/news/2025-smt.html</guid>
+      <description>&lt;p&gt;Our new paper &amp;ldquo;Score-of-Mixture Training: One-Step Generative Model Training Made Simple via Score Estimation of Mixture Distributions&amp;rdquo; has been accepted as a &lt;strong&gt;Spotlight Poster (top 2%)&lt;/strong&gt; at the 42nd International Conference on Machine Learning (ICML 2025). This is joint work with Jongha (Jon) Ryu and Gregory W. Wornell. Please refer to the links above for more information.  In this work we propose a new
+distribution matching framework grounded in minimizing the skewed Jensen-Shannon divergence between interpolated distributions that we show allows for a simple framework for training generative models from scratch (without expensive pre-training and distillation), with minimal architectural design changes and outperforms existing methods for image generative modeling from scratch.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;We propose Score-of-Mixture Training (SMT), a novel framework for training one-step generative models by minimizing a class of divergences called the $\alpha$-skew Jensen&amp;ndash;Shannon divergence. At its core, SMT estimates the score of mixture distributions between real and fake samples across multiple noise levels. Similar to consistency models, our approach supports both training from scratch (SMT) and distillation using a pretrained diffusion model, which we call Score-of-Mixture Distillation (SMD). It is simple to implement, requires minimal hyperparameter tuning, and ensures stable training. Experiments on CIFAR-10 and ImageNet 64x64 show that SMT/SMD are competitive with and can even outperform existing methods.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Recent work on improved score-estimation for diffusion models and implicit models accepted at ICML SPIGM Workshop 2024!</title>

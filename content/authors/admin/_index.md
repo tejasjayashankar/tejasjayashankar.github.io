@@ -23,16 +23,15 @@ organizations:
   - name: Meta Superintelligence Labs (MSL)
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a research scientist at Meta Superintelligence Labs working on diffusion models
-  and few-step generation for speech synthesis and post-training of multimodal LLMs
+bio: I am a research scientist at Meta Superintelligence Labs working on diffusion models,
+  few-step generative modeling for speech synthesis and post-training of multimodal LLMs
 
 # Interests to show in About widget
 interests:
-  - Generative modeling
-  - Statistical Inference
+  - Few-step Generative modeling
+  - Score Estimation and Diffusion Models
   - (Neural) Data Compression
   - Representation Learning
-  - Computer Vision
   - Information Theory
 
 # Education to show in About widget
@@ -88,9 +87,9 @@ highlight_name: true
 **About Me**
 
 I am a Research Scientist at Meta Superintelligence Labs (MSL) where I currently focus on 
-speech synthesis from Meta's multimodal models, particularly focusing on diffusion modeling 
-and few-step generation for speech synthensis, neural codec training and post-training 
-with a focus on reward modeling for RLHF.   
+speech synthesis from Meta's multimodal models, particularly focusing on diffusion modeling,
+few-step generative modeling for speech synthensis, neural codec training and multimodal 
+LLM post-training with a focus on reward modeling for RLHF.   
 
 I was previously a PhD student in the [EECS department at MIT](https://www.eecs.mit.edu/) 
 advised by [Professor Gregory Wornell](http://allegro.mit.edu/~gww/). I defended my Ph.D.
@@ -99,10 +98,26 @@ thesis titled
  M.S. degree in EECS from MIT in January 2022 and my B.S. degree in Electrical Engineering from 
 the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/) in 2019. 
 
-<!-- My research interests lie at the intersection of generative modeling and representation learning. 
-My current interests are in developing new techniques for score-based generative modeling
-such as improved techniques for training diffusion models and using these models for designing
-new one-step generators for downstream tasks such as inverse problems.  I am also generally interested in
-the interplay between information theory and representation learning and have worked on
-several projects related to neural compression with generative decoders such as vision
-transformers, GANs and diffusion models. -->
+**Current Research Interests**
+
+My current research interests include:
+
+- **Efficient Generative Modeling and Score Estimation:** I conduct foundational 
+  research on score estimation, flow matching and distribution matching to develop 
+  new algorithms to improve training and sampling efficiency in generative models (e.g., 
+  [ICML '25 Spotlight](https://openreview.net/forum?id=zk5k2NQcEA)) and solving 
+  inverse problems (e.g., [NeurIPS '23](https://alpha-rgs.github.io/)).
+
+- **Reward Modeling and RLHF:** At MSL, I focus on training reward models—both 
+  preference-based and generative—to enhance the aesthetic quality of multimodal 
+  LLM outputs.
+
+- **Neural Data Compression:** I explore how generative models can serve as density 
+  estimators and powerful priors to advance low-bitrate compression for source coding. 
+  This work has applications in variable-rate, successively refinable data tokenization. 
+  My previous contributions include research at 
+  [Google Research](https://docs.google.com/presentation/d/12mXjO50qHUXiuk062CGNG6gNwtfHcO86uYLYbCLQmms/edit?usp=sharing&resourcekey=0-onMp2_GuNQTqEIEbvpB1AA), 
+  [ICASSP '22](https://ieeexplore.ieee.org/abstract/document/9747419), and a 
+  [patented model-code separation architecture](https://dspace.mit.edu/handle/1721.1/148612) 
+  developed at MIT.
+

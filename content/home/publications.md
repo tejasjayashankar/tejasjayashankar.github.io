@@ -18,6 +18,7 @@ content:
     tag: ''
     category: ''
     publication_type: ''
+    exclude_publication_type: '8'
     author: ''
     exclude_featured: false
     exclude_future: false

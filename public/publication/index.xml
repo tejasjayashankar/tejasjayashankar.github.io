@@ -5,12 +5,28 @@
     <link>https://tejasjayashankar.github.io/publication.html</link>
       <atom:link href="https://tejasjayashankar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jul 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tejasjayashankar.github.io/media/logo_hud022c539867be043536a32a33d2fd77b_252126_300x300_fit_lanczos_3.png</url>
       <title>Publications</title>
       <link>https://tejasjayashankar.github.io/publication.html</link>
     </image>
+    
+    <item>
+      <title>Model-Code Separation Architecture for Data Compression Using Sum-Product Networks</title>
+      <link>https://tejasjayashankar.github.io/publication/2026-model-code-separation.html</link>
+      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2026-model-code-separation.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Score-of-Mixture Training: One-Step Generative Model Training Made Simple via Score Estimation of Mixture Distributions</title>
+      <link>https://tejasjayashankar.github.io/publication/2025-smt.html</link>
+      <pubDate>Wed, 23 Jul 2025 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2025-smt.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Lifted Residual Score Estimation</title>

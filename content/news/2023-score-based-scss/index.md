@@ -13,6 +13,10 @@ title: Latest paper on score-based methods for single-channel source separation 
 #url_code: "https://gitlab.com/maicos-devel/maicos/-/tree/release-0-7"
 links:
   - icon_pack: fas
+    icon: file-pdf
+    name: Poster
+    url: 'NeurIPS_2023_Poster.pdf'
+  - icon_pack: fas
     icon: scroll
     name: arXiv Link
     url: 'https://arxiv.org/pdf/2306.14411.pdf'
