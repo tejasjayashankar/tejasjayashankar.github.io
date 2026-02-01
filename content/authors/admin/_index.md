@@ -87,9 +87,9 @@ highlight_name: true
 **About Me**
 
 I am a Research Scientist at Meta Superintelligence Labs (MSL) where I currently focus on
-speech synthesis from Meta's multimodal models, particularly focusing on <span style="color: #1a3a6b; font-weight: bold;">diffusion modeling</span>,
-<span style="color: #1a3a6b; font-weight: bold;">few-step generative modeling</span> for speech synthesis, <span style="color: #1a3a6b; font-weight: bold;">neural codec training</span> and multimodal
-LLM <span style="color: #1a3a6b; font-weight: bold;">post-training</span> with a focus on reward modeling for RLHF.   
+speech synthesis from Meta's multimodal models, particularly focusing on <span style="color: #b22222; font-weight: bold;">diffusion modeling</span>,
+<span style="color: #b22222; font-weight: bold;">few-step generative modeling</span>, <span style="color: #b22222; font-weight: bold;">neural codec training</span> and multimodal
+LLM <span style="color: #b22222; font-weight: bold;">post-training</span> with an emphasis on reward modeling for RLHF.   
 
 I was previously a PhD student in the [EECS department at MIT](https://www.eecs.mit.edu/) 
 advised by [Professor Gregory Wornell](http://allegro.mit.edu/~gww/). I defended my Ph.D.
