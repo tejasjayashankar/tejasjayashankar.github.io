@@ -5,12 +5,20 @@
     <link>https://tejasjayashankar.github.io/publication-type/7.html</link>
       <atom:link href="https://tejasjayashankar.github.io/publication-type/7/index.xml" rel="self" type="application/rss+xml" />
     <description>7</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Feb 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tejasjayashankar.github.io/media/logo_hud022c539867be043536a32a33d2fd77b_252126_300x300_fit_lanczos_3.png</url>
       <title>7</title>
       <link>https://tejasjayashankar.github.io/publication-type/7.html</link>
     </image>
+    
+    <item>
+      <title>Score Estimation for Generative Modeling</title>
+      <link>https://tejasjayashankar.github.io/publication/2025-phd-thesis.html</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2025-phd-thesis.html</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Image Compression using Sum-Product Networks</title>

@@ -7,8 +7,6 @@ external_link: ""
 #   focal_point: Smart
 # slides: example  https://hugoblox.com/blocks/slider/
 summary: Latest paper accepted for poster presentation at NeurIPS 2023!
-tags:
-- Research
 title: Latest paper on score-based methods for single-channel source separation accepted at NeurIPS 2023
 #url_code: "https://gitlab.com/maicos-devel/maicos/-/tree/release-0-7"
 links:

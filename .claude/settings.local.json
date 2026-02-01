@@ -10,7 +10,8 @@
       "Bash(hugo list:*)",
       "Bash(hugo:*)",
       "WebFetch(domain:patents.google.com)",
-      "WebFetch(domain:scholar.google.com)"
+      "WebFetch(domain:scholar.google.com)",
+      "WebFetch(domain:dspace.mit.edu)"
     ]
   }
 }

@@ -8,19 +8,6 @@ subtitle: ''
 content:
   page_type: news
   filter_default: 0
-  filter_button:
-    - name: Research
-      tag: Research
-    - name: Personal
-      tag: Personal
-    # - name: All
-    #   tag: '*'
-    # - name: Job
-    #   tag: Job
-    # - name: Personal
-    #   tag: Personal
-    # - name: Outreach
-    #   tag: Outreach
 design:
   columns: '2'
   # Toggle between the various page layout types.

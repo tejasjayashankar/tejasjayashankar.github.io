@@ -1,24 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Publications | Tejas Jayashankar</title>
+    <title>Selected Publications &amp; Patents | Tejas Jayashankar</title>
     <link>https://tejasjayashankar.github.io/publication.html</link>
       <atom:link href="https://tejasjayashankar.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
-    <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 15 Jan 2026 00:00:00 +0000</lastBuildDate>
+    <description>Selected Publications &amp; Patents</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Jul 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tejasjayashankar.github.io/media/logo_hud022c539867be043536a32a33d2fd77b_252126_300x300_fit_lanczos_3.png</url>
-      <title>Publications</title>
+      <title>Selected Publications &amp; Patents</title>
       <link>https://tejasjayashankar.github.io/publication.html</link>
     </image>
-    
-    <item>
-      <title>Model-Code Separation Architecture for Data Compression Using Sum-Product Networks</title>
-      <link>https://tejasjayashankar.github.io/publication/2026-model-code-separation.html</link>
-      <pubDate>Thu, 15 Jan 2026 00:00:00 +0000</pubDate>
-      <guid>https://tejasjayashankar.github.io/publication/2026-model-code-separation.html</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Score-of-Mixture Training: One-Step Generative Model Training Made Simple via Score Estimation of Mixture Distributions</title>
@@ -29,10 +21,26 @@
     </item>
     
     <item>
+      <title>Score Estimation for Generative Modeling</title>
+      <link>https://tejasjayashankar.github.io/publication/2025-phd-thesis.html</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2025-phd-thesis.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lifted Residual Score Estimation</title>
       <link>https://tejasjayashankar.github.io/publication/2024-lifted-sm.html</link>
       <pubDate>Mon, 01 Jul 2024 00:00:00 +0000</pubDate>
       <guid>https://tejasjayashankar.github.io/publication/2024-lifted-sm.html</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Model-Code Separation Architecture for Data Compression Using Sum-Product Networks</title>
+      <link>https://tejasjayashankar.github.io/publication/2026-model-code-separation.html</link>
+      <pubDate>Wed, 01 May 2024 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/publication/2026-model-code-separation.html</guid>
       <description></description>
     </item>
     

@@ -7,8 +7,6 @@ external_link: ""
 #   focal_point: Smart
 # slides: example  https://hugoblox.com/blocks/slider/
 summary: Completed my video compression-related student researcher internship with Dr. Fabian Mentzer.
-tags:
-- Research
 title: Wrapped up my PhD Student Researcher Position at Google Research
 #url_code: "https://gitlab.com/maicos-devel/maicos/-/tree/release-0-7"
 links:

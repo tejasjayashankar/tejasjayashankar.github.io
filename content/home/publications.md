@@ -7,7 +7,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Publications
+title: Selected Publications
 subtitle: 'See also my [Google Scholar](https://scholar.google.com/citations?user=gjN_lUoAAAAJ&hl=en).'
 
 content:

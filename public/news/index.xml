@@ -5,12 +5,21 @@
     <link>https://tejasjayashankar.github.io/news.html</link>
       <atom:link href="https://tejasjayashankar.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Apr 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 May 2025 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://tejasjayashankar.github.io/media/logo_hud022c539867be043536a32a33d2fd77b_252126_300x300_fit_lanczos_3.png</url>
       <title>News</title>
       <link>https://tejasjayashankar.github.io/news.html</link>
     </image>
+    
+    <item>
+      <title>Defended PhD thesis at MIT</title>
+      <link>https://tejasjayashankar.github.io/news/2025-defended-phd.html</link>
+      <pubDate>Thu, 01 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://tejasjayashankar.github.io/news/2025-defended-phd.html</guid>
+      <description>&lt;p&gt;I successfully defended my PhD thesis titled &amp;ldquo;Score Estimation for Generative Modeling&amp;rdquo; in the Department of Electrical Engineering and Computer Science at MIT, advised by Professor Gregory W. Wornell. The thesis addresses three primary areas within score-based and diffusion generative models: improved score estimation techniques, Bayesian-inspired frameworks for solving inverse problems such as signal separation, and efficient one-step generation via mixture distribution score estimation.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Score-of-Mixture Training accepted as Spotlight Poster (top 2%) at ICML 2025</title>

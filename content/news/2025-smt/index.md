@@ -4,8 +4,6 @@ publishDate: 2025-04-01
 external_link: ""
 summary: Our new paper on one-step generative modeling from scratch using Score-of-Mixture 
   Training (SMT) accepted as a Spotlight Poster (top 2%) at ICML 2025!
-tags:
-- Research
 title: Score-of-Mixture Training accepted as Spotlight Poster (top 2%) at ICML 2025
 links:
   - icon_pack: fas
