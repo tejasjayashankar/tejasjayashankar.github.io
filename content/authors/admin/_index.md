@@ -75,7 +75,7 @@ social:
       header: true
   - icon: cv
     icon_pack: ai
-    link: https://drive.google.com/file/d/1KJgmH4n_WFRHt30PSur7rr1O_Wdn5x0s/view?usp=sharing
+    link: https://drive.google.com/file/d/19-zVpKdQNgwmDhgDEsHGpe15kiQlp5vz/view?usp=sharing
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: ''
@@ -86,17 +86,16 @@ highlight_name: true
 
 **About Me**
 
-I am a Research Scientist at Meta Superintelligence Labs (MSL) where I currently focus on 
-speech synthesis from Meta's multimodal models, particularly focusing on diffusion modeling,
-few-step generative modeling for speech synthensis, neural codec training and multimodal 
-LLM post-training with a focus on reward modeling for RLHF.   
+I am a Research Scientist at Meta Superintelligence Labs (MSL) where I currently focus on
+speech synthesis from Meta's multimodal models, particularly focusing on <span style="color: #1a3a6b; font-weight: bold;">diffusion modeling</span>,
+<span style="color: #1a3a6b; font-weight: bold;">few-step generative modeling</span> for speech synthesis, <span style="color: #1a3a6b; font-weight: bold;">neural codec training</span> and multimodal
+LLM <span style="color: #1a3a6b; font-weight: bold;">post-training</span> with a focus on reward modeling for RLHF.   
 
 I was previously a PhD student in the [EECS department at MIT](https://www.eecs.mit.edu/) 
 advised by [Professor Gregory Wornell](http://allegro.mit.edu/~gww/). I defended my Ph.D.
 thesis titled 
-["Score Estimation for Generative Modeling"](https://dspace.mit.edu/handle/1721.1/164063) in May 2025.  Before that I completed my
- M.S. degree in EECS from MIT in January 2022 and my B.S. degree in Electrical Engineering from 
-the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/) in 2019. 
+["Score Estimation for Generative Modeling"](https://dspace.mit.edu/handle/1721.1/164063) in May 2025.  Before that I completed my M.S. degree in EECS from MIT in January 2022 and my B.S. degree 
+in Electrical Engineering from the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/) in 2019. 
 
 **Current Research Interests**
 
@@ -108,16 +107,13 @@ My current research interests include:
   [ICML '25 Spotlight](https://openreview.net/forum?id=zk5k2NQcEA)) and solving 
   inverse problems (e.g., [NeurIPS '23](https://alpha-rgs.github.io/)).
 
-- **Reward Modeling and RLHF:** At MSL, I focus on training reward models—both 
-  preference-based and generative—to enhance the aesthetic quality of multimodal 
-  LLM outputs.
+- **Reward Modeling and Multimodal LLM Post-training:** At MSL, I also focus on training 
+  reward models and designing judges to enhance the aesthetic and semantic quality of multimodal 
+  LLM outputs using RLHF and DPO.
 
 - **Neural Data Compression:** I explore how generative models can serve as density 
-  estimators and powerful priors to advance low-bitrate compression for source coding. 
-  This work has applications in variable-rate, successively refinable data tokenization. 
-  My previous contributions include research at 
-  [Google Research](https://docs.google.com/presentation/d/12mXjO50qHUXiuk062CGNG6gNwtfHcO86uYLYbCLQmms/edit?usp=sharing&resourcekey=0-onMp2_GuNQTqEIEbvpB1AA), 
-  [ICASSP '22](https://ieeexplore.ieee.org/abstract/document/9747419), and a 
-  [patented model-code separation architecture](https://dspace.mit.edu/handle/1721.1/148612) 
+  estimators and powerful priors to advance low-bitrate compression for source coding, or
+  in modern day tokenization. My previous contributions include video compression research at 
+  [Google Research](https://docs.google.com/presentation/d/12mXjO50qHUXiuk062CGNG6gNwtfHcO86uYLYbCLQmms/edit?usp=sharing&resourcekey=0-onMp2_GuNQTqEIEbvpB1AA), variable rate speech codecs at [Meta](https://ieeexplore.ieee.org/abstract/document/9747419), and a [patented model-code separation architecture](https://dspace.mit.edu/handle/1721.1/148612) 
   developed at MIT.
 

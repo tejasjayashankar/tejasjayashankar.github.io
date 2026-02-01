@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Research Scientist
+    company: Meta Superintelligence Labs
+    company_url: ''
+    company_logo: meta-icon
+    date_start: '2025-06-09'
+    date_end: ''
+    description: Working on codec training, few-step generative modeling, reward modeling and LLM post-training for multimodal LLMs.
+    
   - title: Research Scientist Intern
     company: Adobe Research
     company_url: ''
@@ -40,7 +48,7 @@ experience:
     date_end: '2023-04-28'
     description: Interned on the Neural Compression team, where I worked with [Dr. Fabian Mentzer](https://fmentzer.github.io/) on neural video compression using vision transformers.
 
-  - title: Research Intern
+  - title: Research Scientist Intern
     company: Meta AI
     company_url: ''
     company_logo: meta-icon
@@ -48,7 +56,7 @@ experience:
     date_end: '2023-09-22'
     description: Interned on the AI Speech team, where I worked with [Dr. Vimal Manohar](https://scholar.google.com/citations?hl=en&user=8t3Ex0QAAAAJ&view_op=list_works&sortby=pubdate) and [Dr. Qing He](https://scholar.google.com/citations?user=kgyV1ucAAAAJ&hl=en) on self-supervised representation learning for singing voice conversion using HiFi-GAN vocoders.
 
-  - title: Research Intern
+  - title: Research Scientist Intern
     company: Meta AI
     company_url: ''
     company_logo: meta-icon
@@ -56,7 +64,7 @@ experience:
     date_end: '2022-09-16'
     description: Interned on the AI Speech team, where I worked with [Dr. Qing He](https://scholar.google.com/citations?user=kgyV1ucAAAAJ&hl=en) on variable bitrate neural speech codecs using hierarchical VQ-VAEs and WaveRNNs with configurable computation complexity.
 
-  - title: Research Intern
+  - title: Research Scientist Intern
     company: Mitsubishi Electric Research Labs (MERL)
     company_url: ''
     company_logo: mitsubishi
