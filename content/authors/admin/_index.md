@@ -87,7 +87,7 @@ highlight_name: true
 **About Me**
 
 I am a Research Scientist at Meta Superintelligence Labs (MSL) where I currently focus on
-speech synthesis from Meta's multimodal models, particularly focusing on <span style="color: #b22222; font-weight: bold;">diffusion modeling</span>,
+speech synthesis from Meta's multimodal models, particularly on <span style="color: #b22222; font-weight: bold;">diffusion modeling</span>,
 <span style="color: #b22222; font-weight: bold;">few-step generative modeling</span>, <span style="color: #b22222; font-weight: bold;">neural codec training</span> and multimodal
 LLM <span style="color: #b22222; font-weight: bold;">post-training</span> with an emphasis on reward modeling for RLHF.   
 
@@ -95,25 +95,10 @@ I was previously a PhD student in the [EECS department at MIT](https://www.eecs.
 advised by [Professor Gregory Wornell](http://allegro.mit.edu/~gww/). I defended my Ph.D.
 thesis titled 
 ["Score Estimation for Generative Modeling"](https://dspace.mit.edu/handle/1721.1/164063) in May 2025.  Before that I completed my M.S. degree in EECS from MIT in January 2022 and my B.S. degree 
-in Electrical Engineering from the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/) in 2019. 
+in Electrical Engineering from the [University of Illinois at Urbana-Champaign](https://ece.illinois.edu/) in 2019.
 
-**Current Research Interests**
+**Research Interests**
 
-My current research interests include:
-
-- **Efficient Generative Modeling and Score Estimation:** I conduct foundational 
-  research on score estimation, flow matching and distribution matching to develop 
-  new algorithms to improve training and sampling efficiency in generative models (e.g., 
-  [ICML '25 Spotlight](https://openreview.net/forum?id=zk5k2NQcEA)) and solving 
-  inverse problems (e.g., [NeurIPS '23](https://alpha-rgs.github.io/)).
-
-- **Reward Modeling and Multimodal LLM Post-training:** At MSL, I also focus on training 
-  reward models and designing judges to enhance the aesthetic and semantic quality of multimodal 
-  LLM outputs using RLHF and DPO.
-
-- **Neural Data Compression:** I explore how generative models can serve as density 
-  estimators and powerful priors to advance low-bitrate compression for source coding, or
-  in modern day tokenization. My previous contributions include video compression research at 
-  [Google Research](https://docs.google.com/presentation/d/12mXjO50qHUXiuk062CGNG6gNwtfHcO86uYLYbCLQmms/edit?usp=sharing&resourcekey=0-onMp2_GuNQTqEIEbvpB1AA), variable rate speech codecs at [Meta](https://ieeexplore.ieee.org/abstract/document/9747419), and a [patented model-code separation architecture](https://dspace.mit.edu/handle/1721.1/148612) 
-  developed at MIT.
-
+- **Efficient Generative Modeling:** Developing new algorithms for score estimation, flow matching, and distribution matching to improve training and sampling in generative models ([Score of Mixture Training, ICML '25 Spotlight](https://openreview.net/forum?id=zk5k2NQcEA)) and inverse problems [α-RGS, NeurIPS '23](https://alpha-rgs.github.io/)).
+- **Reward Modeling & LLM Post-training:** Training reward models and judges to enhance multimodal LLM outputs using RLHF and DPO ([Generative Speech Reward Model, MSL '26](https://arxiv.org/pdf/2602.13891)).
+- **Neural Data Compression:** Using generative models as priors for low-bitrate compression and tokenization ([Efficient Video Compression Transformers, Google Research '23](https://docs.google.com/presentation/d/12mXjO50qHUXiuk062CGNG6gNwtfHcO86uYLYbCLQmms/edit?usp=sharing&resourcekey=0-onMp2_GuNQTqEIEbvpB1AA) and [Model Code Separation, MIT '24](https://dspace.mit.edu/handle/1721.1/148612)).
