@@ -24,13 +24,21 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Senior Research Scientist
+    company: Meta Superintelligence Labs
+    company_url: ''
+    company_logo: meta-icon
+    date_start: '2026-08-01'
+    date_end: ''
+    description: Working on codec training, few-step generative modeling, reward modeling and LLM post-training for multimodal LLMs.
+
   - title: Research Scientist
     company: Meta Superintelligence Labs
     company_url: ''
     company_logo: meta-icon
     date_start: '2025-06-09'
-    date_end: ''
-    description: Working on codec training, few-step generative modeling, reward modeling and LLM post-training for multimodal LLMs.
+    date_end: '2026-07-31'
+    description: Built and trained neural speech codecs with diffusion-based priors for production deployment alongside Meta's multimodal LLMs.
     
   - title: Research Scientist Intern
     company: Adobe Research

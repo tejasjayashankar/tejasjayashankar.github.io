@@ -16,19 +16,21 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Research Scientist
+role: Senior Research Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
   - name: Meta Superintelligence Labs (MSL)
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a research scientist at Meta Superintelligence Labs working on diffusion models,
-  few-step generative modeling for speech synthesis and post-training of multimodal LLMs
+bio: I am a senior research scientist at Meta Superintelligence Labs working on post-training
+  and reward modeling for multimodal (speech) LLMs, along with neural codecs and diffusion models
 
 # Interests to show in About widget
 interests:
-  - Few-step Generative modeling
+  - Reward Modeling and LLM Post-training
+  - Reinforcement Learning and RLHF
+  - Few-step Generative Modeling
   - Score Estimation and Diffusion Models
   - (Neural) Data Compression
   - Representation Learning
@@ -86,10 +88,11 @@ highlight_name: true
 
 **About Me**
 
-I am a Research Scientist at Meta Superintelligence Labs (MSL) where I currently focus on
-speech synthesis from Meta's multimodal models, particularly on <span style="color: #b22222; font-weight: bold;">diffusion modeling</span>,
-<span style="color: #b22222; font-weight: bold;">few-step generative modeling</span>, <span style="color: #b22222; font-weight: bold;">neural codec training</span> and multimodal
-LLM <span style="color: #b22222; font-weight: bold;">post-training</span> with an emphasis on reward modeling for RLHF.   
+I am a Senior Research Scientist at Meta Superintelligence Labs (MSL) where I currently focus on
+multimodal (speech) LLM <span style="color: #b22222; font-weight: bold;">post-training</span>, with an emphasis on
+<span style="color: #b22222; font-weight: bold;">reward modeling</span> for both verifiable and non-verifiable domains, and
+<span style="color: #b22222; font-weight: bold;">reinforcement learning</span>. I also work on <span style="color: #b22222; font-weight: bold;">neural codec training</span> and
+<span style="color: #b22222; font-weight: bold;">diffusion modeling</span> for speech synthesis from Meta's multimodal models.   
 
 I was previously a PhD student in the [EECS department at MIT](https://www.eecs.mit.edu/) 
 advised by [Professor Gregory Wornell](http://allegro.mit.edu/~gww/). I defended my Ph.D.
@@ -99,6 +102,6 @@ in Electrical Engineering from the [University of Illinois at Urbana-Champaign](
 
 **Research Interests**
 
-- **Efficient Generative Modeling:** Developing new algorithms for score estimation, flow matching, and distribution matching to improve training and sampling in generative models ([Score of Mixture Training, ICML '25 Spotlight](https://openreview.net/forum?id=zk5k2NQcEA)) and inverse problems [α-RGS, NeurIPS '23](https://alpha-rgs.github.io/)).
 - **Reward Modeling & LLM Post-training:** Training reward models and judges to enhance multimodal LLM outputs using RLHF and DPO ([Generative Speech Reward Model, MSL '26](https://arxiv.org/pdf/2602.13891)).
+- **Efficient Generative Modeling:** Designing score estimation, flow matching, and distribution matching objectives that cut diffusion sampling from hundreds of network evaluations down to a single step ([Score-of-Mixture Training, ICML '25 Spotlight](https://openreview.net/forum?id=zk5k2NQcEA)), and that repurpose pretrained diffusion priors as solvers for inverse problems such as source separation ([α-RGS, NeurIPS '23](https://alpha-rgs.github.io/)).
 - **Neural Data Compression:** Using generative models as priors for low-bitrate compression and tokenization ([Efficient Video Compression Transformers, Google Research '23](https://docs.google.com/presentation/d/12mXjO50qHUXiuk062CGNG6gNwtfHcO86uYLYbCLQmms/edit?usp=sharing&resourcekey=0-onMp2_GuNQTqEIEbvpB1AA) and [Model Code Separation, MIT '24](https://dspace.mit.edu/handle/1721.1/148612)).
